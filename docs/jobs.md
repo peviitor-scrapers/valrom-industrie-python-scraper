@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-10-11 |
+| Last Scraped | 2026-10-12 |
 
-## Current Job Listings (22)
+## Current Job Listings (21)
 
-_Generated: 2026-10-11T12:27:27.358288+00:00_
+_Generated: 2026-10-12T14:57:02.107126+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
@@ -77,12 +77,6 @@ _Generated: 2026-10-11T12:27:27.358288+00:00_
 - **URL:** [https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/](https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/)
 - **Work Mode:** on-site
 - **Location:** București
-- **Status:** scraped
-
-### AMBALATOR MANUAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3413119](https://mediere.anofm.ro/app/module/mediere/job/3413119)
-- **Location:** România
 - **Status:** scraped
 
 ### SEF ATELIER
