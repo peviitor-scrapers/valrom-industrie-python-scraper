@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-10-13 |
+| Last Scraped | 2026-10-14 |
 
 ## Current Job Listings (21)
 
-_Generated: 2026-10-13T13:54:42.254489+00:00_
+_Generated: 2026-10-14T11:32:02.608850+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
@@ -79,6 +79,12 @@ _Generated: 2026-10-13T13:54:42.254489+00:00_
 - **Location:** București
 - **Status:** scraped
 
+### SUDOR
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3417660](https://mediere.anofm.ro/app/module/mediere/job/3417660)
+- **Location:** România
+- **Status:** scraped
+
 ### SEF ATELIER
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397380](https://mediere.anofm.ro/app/module/mediere/job/3397380)
@@ -94,12 +100,6 @@ _Generated: 2026-10-13T13:54:42.254489+00:00_
 ### MECANIC UTILAJ
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397360](https://mediere.anofm.ro/app/module/mediere/job/3397360)
-- **Location:** România
-- **Status:** scraped
-
-### STIVUITORIST
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397353](https://mediere.anofm.ro/app/module/mediere/job/3397353)
 - **Location:** România
 - **Status:** scraped
 
