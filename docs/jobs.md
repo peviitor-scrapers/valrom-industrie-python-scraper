@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-24 |
 
-## Current Job Listings (39)
+## Current Job Listings (35)
 
-_Generated: 2026-10-23T11:19:05.485608+00:00_
+_Generated: 2026-10-24T10:40:07.873618+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
@@ -159,12 +159,6 @@ _Generated: 2026-10-23T11:19:05.485608+00:00_
 
 ### MECANIC UTILAJ
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426247](https://mediere.anofm.ro/app/module/mediere/job/3426247)
-- **Location:** România
-- **Status:** scraped
-
-### MECANIC UTILAJ
-
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426244](https://mediere.anofm.ro/app/module/mediere/job/3426244)
 - **Location:** România
 - **Status:** scraped
@@ -193,27 +187,9 @@ _Generated: 2026-10-23T11:19:05.485608+00:00_
 - **Location:** România
 - **Status:** scraped
 
-### SEF ATELIER
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397380](https://mediere.anofm.ro/app/module/mediere/job/3397380)
-- **Location:** România
-- **Status:** scraped
-
-### INSTALATOR INSTALATII TEHNICO-SANITARE SI DE GAZE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397372](https://mediere.anofm.ro/app/module/mediere/job/3397372)
-- **Location:** România
-- **Status:** scraped
-
 ### MECANIC UTILAJ
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397360](https://mediere.anofm.ro/app/module/mediere/job/3397360)
-- **Location:** România
-- **Status:** scraped
-
-### STRUNGAR UNIVERSAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397349](https://mediere.anofm.ro/app/module/mediere/job/3397349)
 - **Location:** România
 - **Status:** scraped
 
