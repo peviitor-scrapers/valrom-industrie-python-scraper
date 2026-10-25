@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-10-24 |
+| Last Scraped | 2026-10-25 |
 
-## Current Job Listings (35)
+## Current Job Listings (28)
 
-_Generated: 2026-10-24T10:40:07.873618+00:00_
+_Generated: 2026-10-25T11:02:36.798841+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
@@ -159,6 +159,12 @@ _Generated: 2026-10-24T10:40:07.873618+00:00_
 
 ### MECANIC UTILAJ
 
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426247](https://mediere.anofm.ro/app/module/mediere/job/3426247)
+- **Location:** România
+- **Status:** scraped
+
+### MECANIC UTILAJ
+
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426244](https://mediere.anofm.ro/app/module/mediere/job/3426244)
 - **Location:** România
 - **Status:** scraped
@@ -184,53 +190,5 @@ _Generated: 2026-10-24T10:40:07.873618+00:00_
 ### SUDOR
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3417660](https://mediere.anofm.ro/app/module/mediere/job/3417660)
-- **Location:** România
-- **Status:** scraped
-
-### MECANIC UTILAJ
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397360](https://mediere.anofm.ro/app/module/mediere/job/3397360)
-- **Location:** România
-- **Status:** scraped
-
-### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397329](https://mediere.anofm.ro/app/module/mediere/job/3397329)
-- **Location:** România
-- **Status:** scraped
-
-### LACATUS MECANIC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397327](https://mediere.anofm.ro/app/module/mediere/job/3397327)
-- **Location:** România
-- **Status:** scraped
-
-### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397325](https://mediere.anofm.ro/app/module/mediere/job/3397325)
-- **Location:** România
-- **Status:** scraped
-
-### SUDOR
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397321](https://mediere.anofm.ro/app/module/mediere/job/3397321)
-- **Location:** România
-- **Status:** scraped
-
-### LACATUS MECANIC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397317](https://mediere.anofm.ro/app/module/mediere/job/3397317)
-- **Location:** România
-- **Status:** scraped
-
-### MECANIC UTILAJ
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397314](https://mediere.anofm.ro/app/module/mediere/job/3397314)
-- **Location:** România
-- **Status:** scraped
-
-### REGLOR LA MASINI DE PRELUCRARE MASE PLASTICE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397311](https://mediere.anofm.ro/app/module/mediere/job/3397311)
 - **Location:** România
 - **Status:** scraped
