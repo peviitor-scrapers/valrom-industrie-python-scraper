@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
-## Current Job Listings (28)
+## Current Job Listings (26)
 
-_Generated: 2026-10-25T11:02:36.798841+00:00_
+_Generated: 2026-10-26T12:35:28.871135+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
@@ -77,12 +77,6 @@ _Generated: 2026-10-25T11:02:36.798841+00:00_
 - **URL:** [https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/](https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/)
 - **Work Mode:** on-site
 - **Location:** București
-- **Status:** scraped
-
-### ÎNGRIJITOR CLADIRI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426538](https://mediere.anofm.ro/app/module/mediere/job/3426538)
-- **Location:** România
 - **Status:** scraped
 
 ### BRAND MANAGER
@@ -184,11 +178,5 @@ _Generated: 2026-10-25T11:02:36.798841+00:00_
 ### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426198](https://mediere.anofm.ro/app/module/mediere/job/3426198)
-- **Location:** România
-- **Status:** scraped
-
-### SUDOR
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3417660](https://mediere.anofm.ro/app/module/mediere/job/3417660)
 - **Location:** România
 - **Status:** scraped
