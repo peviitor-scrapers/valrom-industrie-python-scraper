@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-10-28T12:28:12.378759+00:00",
+  "validatedAt": "2026-10-29T12:37:51.609220+00:00",
   "source": "ANAF",
   "brand": "Valrom",
   "anaf": {
@@ -70,9 +70,9 @@
     "career": [
       "https://www.valrom.ro/cariere/"
     ],
-    "lastScraped": "2026-10-27",
+    "lastScraped": "2026-10-28",
     "scraperFile": "https://github.com/peviitor-scrapers/valrom-industrie-python-scraper/actions/workflows/scrape.yml",
-    "_version_": 1880203836588556288,
+    "_version_": 1880296514047180800,
     "_root_": "08529679"
   },
   "summary": {
