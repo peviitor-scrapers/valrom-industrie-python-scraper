@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (25)
+## Current Job Listings (24)
 
-_Generated: 2026-11-02T15:15:09.707949+00:00_
+_Generated: 2026-11-03T13:54:31.517452+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
@@ -82,12 +82,6 @@ _Generated: 2026-11-02T15:15:09.707949+00:00_
 ### BRAND MANAGER
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426335](https://mediere.anofm.ro/app/module/mediere/job/3426335)
-- **Location:** România
-- **Status:** scraped
-
-### INGINER PRODUCTIE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426318](https://mediere.anofm.ro/app/module/mediere/job/3426318)
 - **Location:** România
 - **Status:** scraped
 
