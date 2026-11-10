@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-11-09 |
+| Last Scraped | 2026-11-10 |
 
 ## Current Job Listings (24)
 
-_Generated: 2026-11-09T15:44:12.075127+00:00_
+_Generated: 2026-11-10T14:38:36.362601+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
