@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-11-14T15:04:57.956352+00:00",
+  "validatedAt": "2026-11-15T13:43:29.007953+00:00",
   "source": "ANAF",
   "brand": "Valrom",
   "anaf": {
@@ -72,7 +72,7 @@
     ],
     "lastScraped": "2026-11-14",
     "scraperFile": "https://github.com/peviitor-scrapers/valrom-industrie-python-scraper/actions/workflows/scrape.yml",
-    "_version_": 1881839642297237504,
+    "_version_": 1881846524812460032,
     "_root_": "08529679"
   },
   "summary": {
