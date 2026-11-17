@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-11-16T15:19:45.256551+00:00",
+  "validatedAt": "2026-11-17T15:44:39.091725+00:00",
   "source": "ANAF",
   "brand": "Valrom",
   "anaf": {
@@ -57,23 +57,16 @@
     "onrcStatusLabel": "Funcțiune"
   },
   "peviitor": {
-    "id": "08529679",
+    "id": "8529679",
     "company": "VALROM INDUSTRIE SRL",
-    "brand": "Valrom",
     "status": "activ",
     "location": [
-      "MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28"
+      "BUCURESTI SECTORUL 6"
     ],
-    "website": [
-      "https://www.valrom.ro"
-    ],
-    "career": [
-      "https://www.valrom.ro/cariere/"
-    ],
-    "lastScraped": "2026-11-15",
-    "scraperFile": "https://github.com/peviitor-scrapers/valrom-industrie-python-scraper/actions/workflows/scrape.yml",
-    "_version_": 1881931995372584960,
-    "_root_": "08529679"
+    "lastScraped": "2026-11-16",
+    "scraperFile": "https://github.com/sebiboga/anofm",
+    "_version_": 1882020225419837440,
+    "_root_": "8529679"
   },
   "summary": {
     "company": "VALROM INDUSTRIE SRL",
