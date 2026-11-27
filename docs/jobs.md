@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
 ## Current Job Listings (16)
 
-_Generated: 2026-11-26T16:39:49.410256+00:00_
+_Generated: 2026-11-27T16:25:25.223401+00:00_
 
 ### ANALIST CUMPARARI/CONSULTANT FURNIZORI
 
